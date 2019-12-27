@@ -1,0 +1,5 @@
+c:\users\vagrant\documents\visual studio 2012\Projects\myProject\myProject\bin\myProject.dll
+c:\users\vagrant\documents\visual studio 2012\Projects\myProject\myProject\bin\myProject.pdb
+c:\users\vagrant\documents\visual studio 2012\Projects\myProject\myProject\obj\Debug\myProject.csprojResolveAssemblyReference.cache
+c:\users\vagrant\documents\visual studio 2012\Projects\myProject\myProject\obj\Debug\myProject.dll
+c:\users\vagrant\documents\visual studio 2012\Projects\myProject\myProject\obj\Debug\myProject.pdb

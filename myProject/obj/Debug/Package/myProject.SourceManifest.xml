@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="c:\users\vagrant\documents\visual studio 2012\Projects\myProject\myProject\obj\Debug\Package\PackageTmp" />
+  <setAcl path="c:\users\vagrant\documents\visual studio 2012\Projects\myProject\myProject\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="c:\users\vagrant\documents\visual studio 2012\Projects\myProject\myProject\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
